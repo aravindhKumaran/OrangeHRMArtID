@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Application Test Automation Test Suite]" guice-stage="DEVELOPMENT">
+  <test name="App Test Cases(failed)">
+    <classes>
+      <class name="com.ohrm.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="LogoImageTest"/>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ohrm.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- App Test Cases(failed) -->
+</suite> <!-- Failed suite [Application Test Automation Test Suite] -->

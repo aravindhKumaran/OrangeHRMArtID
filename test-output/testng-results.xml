@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-02T01:34:59Z" name="Default suite" finished-at="2022-03-02T01:38:05Z" duration-ms="186323">
+    <groups>
+    </groups>
+    <test started-at="2022-03-02T01:34:59Z" name="Default test" finished-at="2022-03-02T01:38:05Z" duration-ms="186323">
+      <class name="com.ohrm.qa.testcases.AddEmployeeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:34:59Z" name="setUp" finished-at="2022-03-01T20:35:04Z" duration-ms="5060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToAddEmployee()[pri:1, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:35:04Z" name="navigateToAddEmployee" finished-at="2022-03-01T20:35:13Z" duration-ms="8651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToAddEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:35:13Z" name="tearDown" finished-at="2022-03-01T20:35:20Z" duration-ms="7636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:35:20Z" name="setUp" finished-at="2022-03-01T20:35:25Z" duration-ms="4385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAllFieldsExistBeforeSelectingCreateLoginDetails()[pri:2, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:35:25Z" name="verifyAllFieldsExistBeforeSelectingCreateLoginDetails" finished-at="2022-03-01T20:36:14Z" duration-ms="49403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllFieldsExistBeforeSelectingCreateLoginDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:36:14Z" name="tearDown" finished-at="2022-03-01T20:36:22Z" duration-ms="7654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:36:22Z" name="setUp" finished-at="2022-03-01T20:36:26Z" duration-ms="4520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAllFieldsExistAfterSelectingCreateLoginDetails()[pri:3, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:36:26Z" name="verifyAllFieldsExistAfterSelectingCreateLoginDetails" finished-at="2022-03-01T20:37:57Z" duration-ms="91051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllFieldsExistAfterSelectingCreateLoginDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ohrm.qa.testcases.AddEmployeeTest@40317ba2]" started-at="2022-03-01T20:37:57Z" name="tearDown" finished-at="2022-03-01T20:38:05Z" duration-ms="7947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ohrm.qa.testcases.AddEmployeeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
